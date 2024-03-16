@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prateek Gupta</h1>
-<h3 align="center">👀 I’m interested in Programming | Frontend developer | Fitness & Music</h3>
+<h3 align="center">👀 Programmer | Java Full Stack Development | Fitness & Music</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekgupta2411&label=Profile%20views&color=0e75b6&style=flat" alt="prateekgupta2411" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@prateekparauliy" target="blank"><img src="https://img.shields.io/twitter/follow/Prateek74746937?logo=twitter&style=for-the-badge" alt="@prateekparauliy" /></a> </p>
 
-- 🌱 I’m currently learning **HTML | CSS | JavaScript | React**
+- 🌱 My skill set includes **Java | HTML | CSS | JavaScript | React **
 
-- 💬 Ask me about **java , Data Structure , javascript**
+- 💬 Ask me about **java , DSA , javascript , React**
 
 - 📫 How to reach me **prateekparauliya@gmail.com**
 
