@@ -80,6 +80,3 @@
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekgupta2411&show_icons=true&locale=en" alt="prateekgupta2411" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekgupta2411&" alt="prateekgupta2411" /></p>
-
-<h3 align="left">GitHub Trophies:</h3>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=prateekgupta2411" alt="prateekgupta2411" /></p>
