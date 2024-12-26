@@ -13,10 +13,68 @@
     </a>
 </p>
 
+---
+
 - 🌱 My skill set includes **Java | HTML | CSS | JavaScript | React | Spring Boot | Hibernate**
 - 💬 Ask me about **Java, DSA, JavaScript, React**
 - 📫 Reach me at **prateekparauliya@gmail.com**
 - ⚡ Fun fact: **I make tech look easy, and I love solving coding puzzles!**
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+<ul>
+  <li><b>Employee Management System:</b> A React and Spring Boot application for efficient HR operations. <a href="https://github.com/your-repo-link">View Project</a></li>
+  <li><b>Inventory Tracker:</b> A Java-based system using HashMap to manage stock levels. <a href="https://github.com/your-repo-link">View Project</a></li>
+  <li><b>Internal Discussion Forum:</b> Built for team collaboration using Java, Hibernate, and MySQL. <a href="https://github.com/your-repo-link">View Project</a></li>
+</ul>
+
+---
+
+<h3 align="left">💻 Programming Languages:</h3>
+<p>
+    <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">🛠️ Frameworks and Libraries:</h3>
+<p>
+    <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+    <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">🔧 Tools:</h3>
+<p>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    </a>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekgupta2411&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekgupta2411&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prateekgupta2411&theme=tokyo-night&bg_color=ffffff" alt="GitHub Activity Graph">
+</p>
+
+---
+
+<h3 align="left">📜 Dev Quote of the Day:</h3>
+<p align="left">
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
+</p>
 
 ---
 
@@ -35,48 +93,3 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prateekguptacs19" height="30" width="40" />
     </a>
 </p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekgupta2411&show_icons=true&locale=en" alt="prateekgupta2411" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekgupta2411&" alt="prateekgupta2411" /></p>
