@@ -11,13 +11,13 @@
     <a href="https://twitter.com/@prateekparauliy" target="blank">
         <img src="https://img.shields.io/twitter/follow/Prateek74746937?logo=twitter&style=for-the-badge" alt="@prateekparauliy" />
     </a>
-</p>
+</p> 
 
 - 🌱 My skill set includes Java | Spring Boot | Hibernate | JavaScript | React JS | MySQL | Low-Level Design (LLD) 
 - 💬 Ask me about Java, DSA, JavaScript, React, LLD, and building scalable web applications
 - 📫 Reach me at prateekparauliya@gmail.com
-- ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube, and I love turning ideas into impactful software solutions!
-<li>Follow me on <a href="https://www.linkedin.com/in/prateek-btech-cse/">LinkedIn</a> to stay updated.</li>
+- ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube, and I love turning ideas into impactful software solutions.
+- 🧑‍💼 Follow me on <a href="https://www.linkedin.com/in/prateek-btech-cse/">LinkedIn</a> to stay updated.
 
 ---
 
