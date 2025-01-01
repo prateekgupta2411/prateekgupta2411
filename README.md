@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Prateek Gupta</h1>
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <h3 align="center">👀 Programmer | Full Stack Developer | Fitness Enthusiast | Music Lover</h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,8 +15,9 @@
 
 - 🌱 My skill set includes Java | Spring Boot | Hibernate | JavaScript | React JS | MySQL | Low-Level Design (LLD) 
 - 💬 Ask me about Java, DSA, JavaScript, React, LLD, and building scalable web applications
-- 📫 Reach me at prateekparauliya@gmail.com | prateek24112001gupta@gmail.com
+- 📫 Reach me at prateekparauliya@gmail.com
 - ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube, and I love turning ideas into impactful software solutions!
+- <li>Follow me on <a href="https://www.linkedin.com/in/prateek-btech-cse/">LinkedIn</a> to stay updated.</li>
 
 ---
 
