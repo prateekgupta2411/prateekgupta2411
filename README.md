@@ -17,7 +17,7 @@
 - 💬 Ask me about Java, DSA, JavaScript, React, LLD, and building scalable web applications
 - 📫 Reach me at prateekparauliya@gmail.com
 - ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube, and I love turning ideas into impactful software solutions!
-- <li>Follow me on <a href="https://www.linkedin.com/in/prateek-btech-cse/">LinkedIn</a> to stay updated.</li>
+<li>Follow me on <a href="https://www.linkedin.com/in/prateek-btech-cse/">LinkedIn</a> to stay updated.</li>
 
 ---
 
